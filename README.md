@@ -6,4 +6,4 @@
 ## Demo App
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://air-quality-in-jakarta.streamlit.app/)
 ## Slide Deck
-[![Canva](https://commons.wikimedia.org/wiki/File:Canva_icon_2021.svg)](https://www.canva.com/design/DAGEUa5ynds/aiHf7n_keaSbAgNwMa-Ekw/edit?utm_content=DAGEUa5ynds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Canva](https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg)](https://www.canva.com/design/DAGEUa5ynds/aiHf7n_keaSbAgNwMa-Ekw/edit?utm_content=DAGEUa5ynds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
